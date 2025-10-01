@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Robiatul Al-Qosh  
 
-<!--
-**robiatulaa/robiatulaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Data Science graduate | 💻 Data Analyst & Aspiring Data Scientist  
+📊 Passionate about transforming data into actionable insights and building intelligent systems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- 🌟 Hands-on experience in **Data Analysis** (retail, pharma, IT) and **Data Science** internships.  
+- 📚 Research background in **Natural Language Processing (NLP)**, focusing on hallucination in **Large Language Models (LLMs)**.  
+- 📈 Skilled in building **dashboards, predictive models, and recommender systems**.  
+- 🔍 Interested in **AI, NLP, and data-driven decision making**.  
+
+---
+
+## 🔹 Let's Connect!
+- 💼 [LinkedIn](linkedin.com/in/robiatulaa)  
+- 📂 [Portfolio Website / GitHub Pages](github.com/robiatulaa)  
+- ✉️ [Email Me](mailto:alqoshrobiatul@gmail.com)  
+
+---
+⭐️ Feel free to explore my repositories and projects!
