@@ -14,8 +14,8 @@
 ---
 
 ## 🔹 Let's Connect!
-- 💼 [LinkedIn](linkedin.com/in/robiatulaa)  
-- 📂 [Portfolio Website / GitHub Pages](github.com/robiatulaa)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/robiatulaa)  
+- 📂 [Portfolio Website / GitHub Pages](https://robiatulaa.github.io)
 - ✉️ [Email Me](mailto:alqoshrobiatul@gmail.com)  
 
 ---
